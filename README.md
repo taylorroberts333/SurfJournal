@@ -1,4 +1,4 @@
-# The Surf Journal
+![Brainstorming (1)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/686211f5-2400-4236-98ad-b683774f131b)# The Surf Journal
 
 https://github.com/taylorroberts333/SurfJournal/assets/83095073/6bbbfa94-e7b9-42ae-876d-af8964502c10
 
@@ -8,12 +8,12 @@ The initial problem that the project "The Surf Journal" was trying to solve was 
 Created a backend: Node.js, JavaScript, REST API's, with an Express web server, added configuration to MySQL database using sequelize. Created a frontend: React CRUD application, using JavaScript, HTML, React Router, Bootstrap, and Axios. Now can consume REST API's, display, search, and modify data in a clean way. Applied to personal application, "The Surf Journal" in order to log locations, board used, size of waves, date, and more for any given surf. Ability to retrieve, modify, delete, and create new journal entrys, storing and updating database.
 
 ## User Stories
-![Brainstorming](https://github.com/taylorroberts333/SurfJournal/assets/83095073/d950137a-4048-4276-850e-cb68682ee974)
-![Brainstorming (1)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/f5e51729-d952-4983-a51f-3245e99c58a8)
-![Brainstorming (2)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/dfda8aa4-f64b-447f-8a88-4148b05d8565)
+![Brainstorming](https://github.com/taylorroberts333/SurfJournal/assets/83095073/90c6a01d-a05f-42e8-be5e-f05609f269bf)
+![Brainstorming (1)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/c1e87f4b-c0d5-4457-805c-e06449ff7737)
+![Brainstorming (2)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/50e06a96-6708-4d87-a840-e6e79d6ea301)
 
 ## Test Cases
-![Brainstorming (3)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/13647ae3-302e-4159-a4e1-dfa36d35b13a)
+![Brainstorming (3)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/40478ccd-34fa-4106-b95a-7d89343b73c3)
 
 ## Future Development
 Due to backend hosting and deploying bugs, the stretch goals of tide tracking and user authentication were not fully implemented in the delivered code of "The Surf Journal" project. These goals were initially planned to enhance the functionality and security of the application but faced challenges during the deployment process. The intention behind the tide tracking feature was to provide users with valuable information about tides for their chosen surfing locations. This information would assist them in selecting the optimal time for their surfing sessions. However, due to the hosting and deployment issues, the integration with a reliable and accurate tide data provider could not be completed. As a result, the tide-tracking functionality could not be fully realized. User authentication is a crucial component for ensuring the security and privacy of user data within the application. It was intended to allow users to create individual accounts, log in securely, and have their journal entries associated with their specific accounts. However, the deployment issues and bugs prevented the successful implementation of user authentication. Consequently, the application lacked the capability to authenticate and manage user accounts. Despite these challenges, the core functionality of the application, such as creating, updating, and deleting journal entries, remained intact. The focus was primarily on delivering the essential features while acknowledging that the stretch goals could not be fully realized within the given constraints. It is worth noting that although the tide tracking and user authentication stretch goals were not met in the final delivered code, they could be potential areas for future development and improvement, should the hosting and deployment challenges be addressed.
