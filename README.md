@@ -9,6 +9,7 @@ Created a backend: Node.js, JavaScript, REST API's, with an Express web server, 
 ![Brainstorming (2)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/dfda8aa4-f64b-447f-8a88-4148b05d8565)
 
 ## Test Cases
+![Brainstorming (3)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/13647ae3-302e-4159-a4e1-dfa36d35b13a)
 
 ### Each File
 Backend:
