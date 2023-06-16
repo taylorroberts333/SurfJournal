@@ -21,7 +21,7 @@ Due to backend hosting and deploying bugs, the stretch goals of tide tracking an
 ### Each File
 Backend:
 - db.config.js configures mySQL database
-- journal.controller.js where all API functions are, creattion and implementation, supported by sequelize
+- journal.controller.js where all API functions are, creation and implementation, supported by sequelize
 - index.js where the sequelize connection to the mySQL database is initialized
 - journal.model.js defines the sequilize model and represents the journal in the database, represents columns
 - journal.routes.js defines the routes for when a client sends request for an endpoint using an HTTP request, this is how the server will respond to the request
