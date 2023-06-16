@@ -1,4 +1,4 @@
-![Brainstorming (1)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/686211f5-2400-4236-98ad-b683774f131b)# The Surf Journal
+# The Surf Journal
 
 https://github.com/taylorroberts333/SurfJournal/assets/83095073/6bbbfa94-e7b9-42ae-876d-af8964502c10
 
