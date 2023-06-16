@@ -1,6 +1,8 @@
 # The Surf Journal
 
 ## Description
+The initial problem that the project "The Surf Journal" was trying to solve was to create a web application that allows surfers, body-boarders, paddle-boarders, and body-surfers to keep a log of their surfing activities. The goal was to provide a platform where users could easily create journal entries, view their past entries, update/edit existing entries, and have the ability to delete entries if needed. The application was also intended to have map functionality, allowing users to save their surf locations and view them on a map. Additionally, the project aimed to provide an intuitive and user-friendly interface for managing journal logs.
+
 Created a backend: Node.js, JavaScript, REST API's, with an Express web server, added configuration to MySQL database using sequelize. Created a frontend: React CRUD application, using JavaScript, HTML, React Router, Bootstrap, and Axios. Now can consume REST API's, display, search, and modify data in a clean way. Applied to personal application, "The Surf Journal" in order to log locations, board used, size of waves, date, and more for any given surf. Ability to retrieve, modify, delete, and create new journal entrys, storing and updating database.
 
 ## User Stories
