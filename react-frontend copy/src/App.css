@@ -1,0 +1,88 @@
+.list {
+   text-align: left;
+   max-width: 750px;
+   margin: auto;
+}
+
+.submit-form {
+   position: absolute;
+   left: 150px;
+   max-width: 300px;
+   margin: auto;
+}
+
+.edit-form {
+   max-width: 300px;
+   margin: auto;
+}
+
+/* container */
+.two-columns-grid {
+   display: grid;
+   grid-template-columns: 500px 1fr 2fr;
+   grid-gap: 100px;
+}
+
+.lefter {
+   display: grid;
+   grid-template-columns: 765px 1fr 1fr;
+   vertical-align: top;
+   position: absolute;
+   left: 40px;
+}
+
+body {
+   margin: 0;
+   padding: 0;
+}
+#map {
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   width: 100%;
+}
+
+#info {
+   display: table;
+   position: relative;
+   margin: 0px auto;
+   word-wrap: anywhere;
+   white-space: pre-wrap;
+   padding: 10px;
+   border: none;
+   border-radius: 3px;
+   font-size: 12px;
+   text-align: center;
+   color: #222;
+   background: #fff;
+}
+
+.marker {
+   width:0;
+   height:0;
+ }
+ 
+ .marker  span {
+   display:flex;
+   justify-content:center;
+   align-items:center;
+   box-sizing:border-box;
+   width: 30px;
+   height: 30px;
+   color:#fff;
+   background: #4D2D73;
+   border:solid 2px;
+   border-radius: 0 70% 70%;
+   box-shadow:0 0 2px #000;
+   cursor: pointer;
+   transform-origin:0 0;
+   transform: rotateZ(-135deg);
+ }
+ 
+ .marker b {
+   transform: rotateZ(135deg)
+ }
+ 
+ .temporary-marker span {
+   background: #D3D3D3;
+ }
