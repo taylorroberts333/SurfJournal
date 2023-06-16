@@ -3,6 +3,13 @@
 ## Description
 Created a backend: Node.js, JavaScript, REST API's, with an Express web server, added configuration to MySQL database using sequelize. Created a frontend: React CRUD application, using JavaScript, HTML, React Router, Bootstrap, and Axios. Now can consume REST API's, display, search, and modify data in a clean way. Applied to personal application, "The Surf Journal" in order to log locations, board used, size of waves, date, and more for any given surf. Ability to retrieve, modify, delete, and create new journal entrys, storing and updating database.
 
+## User Stories
+![Brainstorming](https://github.com/taylorroberts333/SurfJournal/assets/83095073/d950137a-4048-4276-850e-cb68682ee974)
+![Brainstorming (1)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/f5e51729-d952-4983-a51f-3245e99c58a8)
+![Brainstorming (2)](https://github.com/taylorroberts333/SurfJournal/assets/83095073/dfda8aa4-f64b-447f-8a88-4148b05d8565)
+
+## Test Cases
+
 ### Each File
 Backend:
 - db.config.js configures mySQL database
