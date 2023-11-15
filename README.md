@@ -1,6 +1,6 @@
 # The Surf Journal
 
-https://github.com/taylorroberts333/SurfJournal/assets/83095073/6bbbfa94-e7b9-42ae-876d-af8964502c10
+[https://github.com/taylorroberts333/SurfJournal/assets/83095073/6bbbfa94-e7b9-42ae-876d-af8964502c10](https://github.com/taylorroberts333/taylorroberts333/assets/83095073/f48a4533-a508-483b-94d5-f73d20aad494)
 
 ## Description
 The initial problem that the project "The Surf Journal" was trying to solve was to create a web application that allows surfers, body-boarders, paddle-boarders, and body-surfers to keep a log of their surfing activities. The goal was to provide a platform where users could easily create journal entries, view their past entries, update/edit existing entries, and have the ability to delete entries if needed. The application was also intended to have map functionality, allowing users to save their surf locations and view them on a map. Additionally, the project aimed to provide an intuitive and user-friendly interface for managing journal logs.
